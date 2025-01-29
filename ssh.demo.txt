@@ -2,4 +2,4 @@ Rajendra Prasad J
 Davanagere
 Attigere
 
-New Command Need To Add
+New Command Need To Add new command in same line
